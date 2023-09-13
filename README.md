@@ -1,4 +1,4 @@
-# 2.	Airlane Potential Customer Project
+# Airlane Potential Customer Project
 
 The airline company aims to rekindle relationship with potential customers by identifying individuals whose sales have consistently declining by more than 10,000 each year from 2020 to 2023. The information needed were:
 
